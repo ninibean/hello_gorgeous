@@ -3,7 +3,7 @@
 
 Winner of PearlHacks 2020 Best Women's Empowerment Hack
 
-Developers: Niara Patterson, Jaelyn Everrett and Caira Mcclain.
+Developers: Niara Patterson, Jaelyn Everett and Caira Mcclain.
 
 Developed using Figma and Adobe Illustrator.
 
