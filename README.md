@@ -8,4 +8,7 @@ Developers: Niara Patterson, Jaelyn Everrett and Caira Mcclain.
 Developed using Figma and Adobe Illustrator.
 
 This repository serves as a bridge to the Devpost site where "Hello Gorgeous!" lives.
+
 LINK TO DEVPOST PAGE: https://devpost.com/software/hello-gorgeous-a-domestic-abuse-safety-app
+
+LINK TO PROTOTYPE: https://www.figma.com/proto/tBy7urhtOm0HFgG2bQulVh/Hello-Gorgeous-App-Mockup?node-id=6%3A3&scaling=scale-down
