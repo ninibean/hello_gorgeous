@@ -1,7 +1,7 @@
 # "Hello, Gorgeous!", a domestic safety app
 "Hello, Gorgeous!" is an application built to help people who are in unsafe domestic relationships find help without being caught.
 
-Winner of PearlHacks 2020 Best Women's Empowerment Hack
+Winner of Rewriting the Code's Best Women's Empowerment Hack at the University of North Carolina Charolette's PearlHacks 2020 Hackathon.
 
 Developers: Niara Patterson, Jaelyn Everett and Caira Mcclain.
 
